@@ -10,17 +10,17 @@
 // 	}
 
 // 	const { title, image, year, genre, playback, description, star } = activeFilm
-// MainTrend.propTypes = {
-// 	activeFilm: PropTypes.shape({
-// 		title: PropTypes.string.isRequired,
-// 		image: PropTypes.string.isRequired,
-// 		year: PropTypes.number.isRequired,
-// 		genre: PropTypes.string.isRequired,
-// 		playback: PropTypes.string.isRequired,
-// 		description: PropTypes.string.isRequired,
-// 		star: PropTypes.number.isRequired
-// 	}).object
-// }
+	// MainTrend.propTypes = {
+	// 	activeFilm: PropTypes.shape({
+	// 		title: PropTypes.string.isRequired,
+	// 		image: PropTypes.string.isRequired,
+	// 		year: PropTypes.number.isRequired,
+	// 		genre: PropTypes.string.isRequired,
+	// 		playback: PropTypes.string.isRequired,
+	// 		description: PropTypes.string.isRequired,
+	// 		star: PropTypes.number.isRequired
+	// 	}).object
+	// }
 </script>
 <template>
 	

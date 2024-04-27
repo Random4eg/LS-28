@@ -1,12 +1,12 @@
 <script setup>
 </script>
 
-<template>	
-			<div class='favorites'>
-				<div class='favorites'>
-					<div class='title'>Favorites</div>
-					<div class='favorites-list'>{listItems}</div>
-				</div>
-			</div>
+<template>
+  <div class="favorites">
+    <h1>This is an favorites page</h1>
+  </div>
 </template>
 
+<style>
+
+</style>

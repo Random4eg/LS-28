@@ -2,11 +2,11 @@
 </script>
 
 <template>
-	<div class="trending">
-	  <h1>This is an trending page</h1>
+	<div class="login">
+	  <h1>This is an Login page</h1>
 	</div>
   </template>
   
   <style>
-  </style>
+ </style>
   
